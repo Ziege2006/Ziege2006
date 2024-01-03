@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...coodierung    
 - 🌱 I’m currently learning ...new stuff
 - 💞️ I’m looking to collaborate on ...android
-- 📫 How to reach me ...icgh bin neu und möchte viel lernen
+- 📫 How to reach me ...derziege2006@gmail.com
+- 
 
 <!---
 Ziege2006/Ziege2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
